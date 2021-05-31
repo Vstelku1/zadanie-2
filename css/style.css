@@ -104,6 +104,7 @@ a.button:hover {
 }
 */
 
+
 div.main-header {
     width: 96vw;
     height: 18vw;
@@ -237,6 +238,7 @@ div.main_text-prewiev_3 {
     height: 66vw;
     margin-left: 2vw;
     margin-right: 2vw;
+    background: #ED213A
 }
 
 div.main_text-prewiev_3_1 {
@@ -244,6 +246,7 @@ div.main_text-prewiev_3_1 {
     height: 66vw;
     display: flex;
     justify-content: center;
+    background: #220707
 }
 
 .main_text-prewiev_3_1 li {
@@ -266,14 +269,16 @@ div.main_text-prewiev_3_1 {
 
 div.main_text-prewiev_4 {
     width: 96vw;
-    height: 6.5vw;
+    height: 10vw;
     margin-left: 2vw;
     margin-right: 2vw;
+    background: #220707
 }
 
 div.main_text-prewiev_4_1 {
     width: 80vw;
     height: 6vw;
+    display: flex;
 }
 
 .main_text-prewiev_4_1 {
@@ -281,6 +286,9 @@ div.main_text-prewiev_4_1 {
     color: #14756f;
     text-align: left;
     margin-left: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 div.main_text-prewiev_5 {
