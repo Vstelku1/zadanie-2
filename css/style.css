@@ -190,7 +190,7 @@ div.main_text-prewiev_1_3 {
 
 div.main_text-prewiev_2 {
     width: 98vw;
-    height: 75.5vw;
+    height: 78.5vw;
     margin-left: 1vw;
     margin-right: 1vw;
     background-color: aqua
@@ -253,12 +253,15 @@ div.main_text-prewiev_2_3 {
     background-position: 0vw 2.3vw;
     background-size: 1.5vw 1.5vw;
     padding: 1.5vw 0 0 2.5vw;
+
 }
 
 .main_text-prewiev_2_3 {
     justify-content: center;
     font-size: 1.8vw;
     color: #14756f;
+    display: flex;
+    background: linear-gradient( 284.04deg, #e1f2f3 0%, #ED213A 81.77%, #FFC4C2 98.96%);
 }
 
 div.main_text-prewiev_2_4 {
@@ -318,4 +321,13 @@ div.main_text-prewiev_4_1 {
     justify-content: center;
     font-size: 1.8vw;
     color: #14756f;
+}
+
+div.main_text-prewiev_4_1 {
+    width: 80vw;
+    height: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC4C2
 }
