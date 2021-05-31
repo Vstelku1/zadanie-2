@@ -34,6 +34,17 @@ table {
 }
 /* конец кода сброса стилей браузера */
 
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 div.main-header_menu {
     width: 96vw; /* ширина окна */
@@ -185,7 +196,7 @@ div.main_text-prewiev_1_2 {
 div.main_text-prewiev_1_3 {
     width: 48vw;
     height: 15vw;
-    margin-top: 25vw;
+    margin-top: 27vw;
 }
 
 div.main_text-prewiev_2 {
@@ -340,12 +351,10 @@ div.main_text-prewiev_7 {
     height: 51vw;
     margin-left: 2vw;
     margin-right: 2vw;
-    background-color: #FFC4C2
-
 }
 
 div.main_text-prewiev_7_1 {
-    width: 55vw;
+    width: 37vw;
     height: 5vw;
     display: flex;
     align-items: center;
@@ -359,56 +368,63 @@ div.main_text-prewiev_7_1 {
     font-size: 2.1vw;
     color: #220707;
     text-align: center;
-    margin: auto;
 }
 
 div.main_text-prewiev_7_2 {
     width: 37vw;
-    height: 35vw;
+    height: 43vw;
     align-items: center;
     justify-content: center;
     padding: 0.7vw;
     font-size: 2.1vw;
-    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
 }
 
 div.main_text-prewiev_7_2_1 {
     width: 36vw;
     height: 11vw;
+    margin-left: 1.5vw;
 }
 
 div.main_text-prewiev_7_2_2 {
     width: 36vw;
     height: 11vw;
+    margin-left: 1.5vw;
 }
 
 div.main_text-prewiev_7_2_3 {
     width: 36vw;
     height: 6vw;
+    margin-left: 1.5vw;
 }
 
 div.main_text-prewiev_7_2_4 {
     width: 36vw;
     height: 12vw;
     margin-top: 2.5vw;
+    margin-left: 1.5vw;
 }
 
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
+div.main_text-prewiev_7_2_5 {
+    width: 57vw;
+    height: 44vw;
+    float: right;
+    background: url(../Image/tel.png) no-repeat;
+    background-position: 0vw 0vw;
+    background-size: 45vw 45vw;
 }
 
 div.main_text-prewiev_8 {
     width: 96vw;
-    height: 10vw;
+    height: 6vw;
     margin-left: 2vw;
     margin-right: 2vw;
-    background-color:aquamarine
+    background-color: #410808;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8vw;
+    color: #e1f2f3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
