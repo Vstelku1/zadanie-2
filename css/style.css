@@ -190,9 +190,10 @@ div.main_text-prewiev_1_3 {
 
 div.main_text-prewiev_2 {
     width: 98vw;
-    height: 61.5vw;
+    height: 75.5vw;
     margin-left: 1vw;
     margin-right: 1vw;
+    background-color: aqua
 }
 
 div.main_text-prewiev_2_1 {
@@ -201,6 +202,7 @@ div.main_text-prewiev_2_1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #14756f
 }
 
 .main_text_1 {
@@ -220,6 +222,7 @@ div.main_text-prewiev_2_2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FFC4C2
 }
 
 .main_text_2 {
@@ -235,21 +238,21 @@ div.main_text-prewiev_2_2 {
 
 div.main_text-prewiev_2_3 {
     width: 80vw;
-    height: 45vw;
+    height: 59vw;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #2929d9
 }
 
 .main_text-prewiev_2_3 li {
     list-style-type: none;
     line-height: 2.8vw;
-    margin-top: -2vw;
     margin-left: 1.8vw;
     background: url(../Image/dotMarker.png) no-repeat;
     background-position: 0vw 2.3vw;
-    background-size: 2vw 2vw;
-    padding: 2vw 0 0 2.5vw;
+    background-size: 1.5vw 1.5vw;
+    padding: 1.5vw 0 0 2.5vw;
 }
 
 .main_text-prewiev_2_3 {
@@ -261,6 +264,7 @@ div.main_text-prewiev_2_3 {
 div.main_text-prewiev_2_4 {
     width: 80vw;
     height: 6vw;
+    background-color: #14756f
 }
 
 .main_text-prewiev_2_4 {
@@ -286,7 +290,7 @@ img.main-face {
 
 div.main_text-prewiev_4 {
     width: 98vw;
-    height: 30vw;
+    height: 50.5vw;
     margin-left: 1vw;
     margin-right: 1vw;
     background: linear-gradient( 284.04deg, #e1f2f3 0%, #ED213A 81.77%, #FFC4C2 98.96%);
@@ -294,16 +298,16 @@ div.main_text-prewiev_4 {
 
 div.main_text-prewiev_4_1 {
     width: 80vw;
-    height: 30vw;
+    height: 50vw;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FFC4C2
 }
 
 .main_text-prewiev_4_1 li {
     list-style-type: none;
     line-height: 2.8vw;
-    margin-top: -2vw;
     margin-left: 1.8vw;
     background: url(../Image/dotMarker.png) no-repeat;
     background-position: 0vw 2.3vw;
