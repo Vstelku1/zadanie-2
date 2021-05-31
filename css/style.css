@@ -190,7 +190,7 @@ div.main_text-prewiev_1_3 {
 
 div.main_text-prewiev_2 {
     width: 98vw;
-    height: 78.5vw;
+    height: 80vw;
     margin-left: 1vw;
     margin-right: 1vw;
     background-color: aqua
@@ -238,7 +238,7 @@ div.main_text-prewiev_2_2 {
 
 div.main_text-prewiev_2_3 {
     width: 80vw;
-    height: 59vw;
+    height: 63vw;
     display: flex;
     align-items: center;
     justify-content: center;
