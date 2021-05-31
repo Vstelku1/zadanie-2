@@ -1,0 +1,321 @@
+/* сброс стилей браузера */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1.2;
+}
+
+ol {
+    padding-left: 1.4em;
+    list-style: decimal;
+}
+
+ul {
+    padding-left: 1.4em;
+    list-style: square;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* конец кода сброса стилей браузера */
+
+
+div.main-header_menu {
+    width: 98vw; /* ширина окна */
+    height: 4vw; /* высота */
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background: linear-gradient( 284.04deg, #45070f 0%, #FFB7B5 81.77%, #FFC4C2 98.96%); /* изменение градиента фона */
+}
+
+.main_header-Lebel {
+    font-size: 3vw;
+    color: #220707;
+    text-align: center;
+    margin: auto;
+}
+
+ul.navigasion {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+    /*ul.navigasion a{
+    border: solid 1px rgb(42 19 6);
+    background-color: rgb(124 11 90);
+    color: #e1f2f3;
+    padding: 1vw;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: auto;
+    font-size: 1.5vw;
+}
+
+ul.navigasion a:hover{
+    border: solid 1px rgb(123, 9, 123);
+    background-color: rgb(222, 128, 222);
+    color: #000;
+    padding: 1vw;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: auto; 
+    font-size: 1.5vw;
+}
+
+ul.navigasion li {
+    display: inline;
+}
+
+a.button {
+    margin: 3px; 
+    padding: 3px;
+    border: solid 1px rgb(42 19 6);
+    background-color: rgb(124 11 90);
+    color: #e1f2f3;
+    padding: 4px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+a.button:hover {
+    border: solid 1px rgb(123, 9, 123);
+    background-color: rgb(222, 128, 222);
+    color: #000;
+    padding: 4px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 1.2em; 
+}
+*/
+
+div.main-header {
+    width: 98vw;
+    height: 18vw;
+    background: linear-gradient( 284.04deg, #e1f2f3 0%, #ED213A 81.77%, #FFC4C2 98.96%);
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+div.header_h1_left {
+    width: 38vw;
+    height: 18vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+img.header-face {
+    width: 19vw;
+    height: 16vw;
+    padding: 1vw;
+}
+
+div.header_h1_right {
+    width: 38vw;
+    height: 18vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+}
+
+.main_header-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5vw;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+div.main_text-prewiev_1 {
+    width: 98vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    display: flex;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+div.main_text-prewiev_1_1 {
+    width: 49vw;
+    height: 40vw;
+    background-image: url(../Image/avto1.png);
+    background-size: cover;
+}
+
+div.main_text-prewiev_1_2 {
+    width: 49vw;
+    height: 40vw;
+    background-image: url(../Image/avto2.png);
+    background-size: cover;
+
+}
+
+.main_text {
+    padding: 0.7vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2vw;
+    color: #2929d9;
+    text-align: center;
+}
+
+div.main_text-prewiev_1_3 {
+    width: 49vw;
+    height: 15vw;
+    margin-top: 25vw;
+}
+
+div.main_text-prewiev_2 {
+    width: 98vw;
+    height: 75.5vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background-color: aqua
+}
+
+div.main_text-prewiev_2_1 {
+    width: 55vw;
+    height: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #14756f
+}
+
+.main_text_1 {
+    padding: 0.7vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.1vw;
+    color: #220707;
+    text-align: center;
+    margin: auto;
+}
+
+div.main_text-prewiev_2_2 {
+    width: 55vw;
+    height: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC4C2
+}
+
+.main_text_2 {
+    padding: 0.5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8vw;
+    color: #2d219b;
+    text-align: center;
+    margin: auto;
+}
+
+div.main_text-prewiev_2_3 {
+    width: 80vw;
+    height: 59vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2929d9
+}
+
+.main_text-prewiev_2_3 li {
+    list-style-type: none;
+    line-height: 2.8vw;
+    margin-left: 1.8vw;
+    background: url(../Image/dotMarker.png) no-repeat;
+    background-position: 0vw 2.3vw;
+    background-size: 1.5vw 1.5vw;
+    padding: 1.5vw 0 0 2.5vw;
+}
+
+.main_text-prewiev_2_3 {
+    justify-content: center;
+    font-size: 1.8vw;
+    color: #14756f;
+}
+
+div.main_text-prewiev_2_4 {
+    width: 80vw;
+    height: 6vw;
+    background-color: #14756f
+}
+
+.main_text-prewiev_2_4 {
+    font-size: 1.8vw;
+    color: #14756f;
+    text-align: left;
+    margin-left: 3vw;
+}
+
+div.main_text-prewiev_3 {
+    width: 98vw;
+    height: 38vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+img.main-face {
+    width: 65vw;
+    height: 35vw;
+    padding: 4vw;
+    margin-top: -2vw;
+}
+
+div.main_text-prewiev_4 {
+    width: 98vw;
+    height: 50.5vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    background: linear-gradient( 284.04deg, #e1f2f3 0%, #ED213A 81.77%, #FFC4C2 98.96%);
+}
+
+div.main_text-prewiev_4_1 {
+    width: 80vw;
+    height: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC4C2
+}
+
+.main_text-prewiev_4_1 li {
+    list-style-type: none;
+    line-height: 2.8vw;
+    margin-left: 1.8vw;
+    background: url(../Image/dotMarker.png) no-repeat;
+    background-position: 0vw 2.3vw;
+    background-size: 2vw 2vw;
+    padding: 2vw 0 0 2.5vw;
+}
+.main_text-prewiev_4_1 {
+    justify-content: center;
+    font-size: 1.8vw;
+    color: #14756f;
+}
