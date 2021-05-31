@@ -234,14 +234,14 @@ div.main_text-prewiev_2_2 {
 
 div.main_text-prewiev_3 {
     width: 98vw;
-    height: 60vw;
+    height: 64vw;
     margin-left: 1vw;
     margin-right: 1vw;
 }
 
 div.main_text-prewiev_3_1 {
     width: 80vw;
-    height: 60vw;
+    height: 64vw;
     display: flex;
     justify-content: center;
 }
@@ -258,6 +258,7 @@ div.main_text-prewiev_3_1 {
 
 .main_text-prewiev_3_1 {
     justify-content: center;
+    flex-flow: row wrap;
     font-size: 1.8vw;
     color: #14756f;
     display: flex;
@@ -298,7 +299,7 @@ img.main-face {
 
 div.main_text-prewiev_6 {
     width: 98vw;
-    height: 44vw;
+    height: 47vw;
     margin-left: 1vw;
     margin-right: 1vw;
     background: linear-gradient( 284.04deg, #e1f2f3 0%, #ED213A 81.77%, #FFC4C2 98.96%);
@@ -306,9 +307,8 @@ div.main_text-prewiev_6 {
 
 div.main_text-prewiev_6_1 {
     width: 80vw;
-    height: 44vw;
+    height: 47vw;
     display: flex;
-    align-items: center;
     justify-content: center;
     background-color: #FFC4C2
 }
@@ -333,7 +333,7 @@ div.main_text-prewiev_6_1 {
 
 div.main_text-prewiev_7 {
     width: 98vw;
-    height: 50vw;
+    height: 53vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -342,7 +342,7 @@ div.main_text-prewiev_7 {
 
 div.main_text-prewiev_7_1 {
     width: 80vw;
-    height: 50vw;
+    height: 53vw;
     display: flex;
     align-items: center;
     justify-content: center;
