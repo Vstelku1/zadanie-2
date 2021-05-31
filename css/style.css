@@ -234,16 +234,15 @@ div.main_text-prewiev_2_2 {
 
 div.main_text-prewiev_3 {
     width: 98vw;
-    height: 58.5vw;
+    height: 60vw;
     margin-left: 1vw;
     margin-right: 1vw;
 }
 
 div.main_text-prewiev_3_1 {
     width: 80vw;
-    height: 58vw;
+    height: 60vw;
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 
